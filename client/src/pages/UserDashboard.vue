@@ -5,6 +5,8 @@
   <AboutUs />
   <OurServices />
   <FeaturedRoom />
+  <RestoBeach />
+  <AllFooter />
 </div>
 </template>
 
@@ -14,19 +16,20 @@ import HeroSection from '@/components/HeroSection.vue';
 import OurServices from '@/components/OurServices.vue'
 import AboutUs from '@/components/AboutUs.vue';
 import FeaturedRoom from '@/components/FeaturedRoom.vue';
-// import AllPricing from '@/components/AllPricing.vue'
-// import AllFooter from '@/components/AllFooter.vue'
-// import ContactUs from '@/components/ContactUs.vue'
+import AllFooter from '@/components/AllFooter.vue'
+import RestoBeach from '@/components/RestoBeach.vue';
 
     export default {
         name: 'UserDasboard',
         components: {
-          NavBar,
-          HeroSection,
-          OurServices,
-          AboutUs,
-          FeaturedRoom
-      },
+    NavBar,
+    HeroSection,
+    OurServices,
+    AboutUs,
+    FeaturedRoom,
+    AllFooter,
+    RestoBeach
+},
           setup() {
 
             return {

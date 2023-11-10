@@ -2,6 +2,9 @@ import { createRouter, createWebHistory } from 'vue-router'
 import SignIn from '@/pages/SignIn.vue'
 import SignUp from '@/pages/SignUp.vue'
 import UserDashboard from '@/pages/UserDashboard.vue'
+import AllRoom from '@/pages/AllRoom.vue'
+import ContactUs from '@/pages/ContactUs.vue'
+import RestoBar from '@/pages/RestoBar.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -17,9 +20,24 @@ const router = createRouter({
       component: SignUp
     },
     {
-      path: '/dashboard',
+      path: '/',
       name: 'UserDashboard',
       component: UserDashboard
+    },
+    {
+      path: '/rooms',
+      name: 'AllRoom',
+      component: AllRoom
+    },
+    {
+      path: '/contact/us',
+      name: 'ContactUs',
+      component: ContactUs
+    },
+    {
+      path: '/resto',
+      name: 'RestoBar',
+      component: RestoBar
     },
   ]
 })

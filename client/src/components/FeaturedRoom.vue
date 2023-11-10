@@ -2,7 +2,7 @@
 <!-- Container for demo purpose -->
 <div class="bg-slate-100 py-24 mx-auto md:px-6">
     <!-- Section: Design Block -->
-    <section class="mb-32 text-center">
+    <section class="mb-5 text-center">
       <p class="text-orange-400 font-semibold">OUR ROOMS</p>
       <h1 class="mb-24 pb-4 text-center text-6xl font-bold">
         Featured Rooms

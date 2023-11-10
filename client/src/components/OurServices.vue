@@ -11,7 +11,7 @@
         <div
           class="block h-full rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
           <div class="flex justify-center">
-            <div class="-mt-8 inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
+            <div class="-mt-8 animate-bounce inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
                 stroke="currentColor" class="h-1 w-7">
                 <i class="fa-solid fa-wifi fa-2x text-orange-400"></i>
@@ -28,7 +28,7 @@
         <div
           class="block h-full rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
           <div class="flex justify-center">
-            <div class="-mt-8 inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
+            <div class="-mt-8 animate-bounce inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
                 stroke="currentColor" class="h-1 w-7">
                 <i class="fa-solid fa-computer fa-2x text-orange-400"></i>
@@ -45,7 +45,7 @@
         <div
           class="block h-full rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
           <div class="flex justify-center">
-            <div class="-mt-8 inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
+            <div class="-mt-8 animate-bounce inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
                 stroke="currentColor" class="h-1 w-7">
                 <i class="fa-solid fa-utensils fa-2x text-orange-400"></i>
@@ -62,7 +62,7 @@
         <div
           class="block h-full rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
           <div class="flex justify-center">
-            <div class="-mt-8 inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
+            <div class="-mt-8 animate-bounce inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
                 stroke="currentColor" class="h-1 w-7">
                 <i class="fa-solid fa-person-swimming fa-2x text-orange-400"></i>
@@ -79,7 +79,7 @@
         <div
           class="block h-full rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
           <div class="flex justify-center">
-            <div class="-mt-8 inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
+            <div class="-mt-8 animate-bounce inline-block rounded-full bg-primary-100 p-4 text-primary shadow-md">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
                 stroke="currentColor" class="h-1 w-7">
                 <i class="fa-solid fa-headset fa-2x text-orange-400"></i>

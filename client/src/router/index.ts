@@ -5,6 +5,7 @@ import UserDashboard from '@/pages/UserDashboard.vue'
 import AllRoom from '@/pages/AllRoom.vue'
 import ContactUs from '@/pages/ContactUs.vue'
 import RestoBar from '@/pages/RestoBar.vue'
+import SingleListing from '@/components/SingleListing.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +39,11 @@ const router = createRouter({
       path: '/resto',
       name: 'RestoBar',
       component: RestoBar
+    },
+    {
+      path: '/single/listing',
+      name: 'SingleListing',
+      component: SingleListing
     },
   ]
 })
